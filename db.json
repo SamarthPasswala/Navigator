@@ -1,0 +1,21 @@
+{
+  "user": [
+    {
+      "id": "68e8",
+      "username": "samy",
+      "email": "sam@hotmail.com",
+      "password": "1234",
+      "gender": "male",
+      "hobby": [
+        "Paint",
+        "Code"
+      ],
+      "city": "rajkot",
+      "address": "palanpur"
+    }
+  ],
+  "admin": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
